@@ -9,11 +9,15 @@ body {
   background-color: blue;
   justify-content: center;
   align-items: center;
+  width: 100vw;
+  height: 100vh;
 }
 
 #editor {
   background-color: rgb(141, 247, 155);
   margin-bottom: 15px;
+  width: 25%;
+  height: 20%;
 }
 
 .markdown{
